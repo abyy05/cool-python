@@ -7,14 +7,14 @@ Hello this is my python repository
 A simple Python program that takes a string input from the user and returns the reversed version of it using Python's slicing syntax.
 
 
-## Features
+# Features
 
 - String manipulation
 - User input
 - Function definition and return values
 
 
-## Installation
+# Installation
 
 Run it as usual  .py file
 
