@@ -40,7 +40,7 @@ Run it as usual  .py file
 - Clean function design
 - User input validation
 - Python String Slicing Techniques
-- String Manipulationn
+- String Manipulation
 
 
 # Project 2 (Temperature Conversion)
