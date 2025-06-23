@@ -30,3 +30,58 @@ Run it as usual  .py file
     Output: dlroW olleH
 ```
 
+## Tech Stack
+
+**Python,** **Standard library only (no dependencies).** 
+
+
+## Lessons Learned
+
+- Clean function design
+- User input validation
+- Python String Slicing Techniques
+- String Manipulationn
+
+
+# Project 2 (Temperature Conversion)
+
+An interactive CLI (Command Line Interface) application to convert temperatures between Celsius and Fahrenheit.
+
+
+## Features
+
+- Convert from Fahrenheit to Celsius and vice versa
+- Handles invalid input gracefully
+- Runs up to 100 conversions in one session
+
+
+## Installation
+
+Run it as usual  .py file
+
+```bash
+  python Temperature_Conversion.py
+```
+    
+## Example Usage
+
+```bash
+    Input:  Convert Temperature, units in large case
+            Enter value: 44
+            Enter unit (C for Celsius, F for Fahrenheit): C 
+    Output: Your value in Fahrenheit is: 111.20 °F
+```
+
+
+## Tech Stack
+
+**Python,** **Standard library only (no dependencies).** 
+
+
+## Lessons Learned
+
+- Basic control structures (if, while)
+- CLI formatting for a better user experience
+
+
+
