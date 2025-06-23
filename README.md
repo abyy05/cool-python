@@ -1,5 +1,5 @@
 # cool-python
-Hello Everyone! Welcome to my python repository
+Hello Everyone ! Welcome to my python repository.
 
 
 # Project 1 (String Reversal)
