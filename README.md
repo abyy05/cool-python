@@ -2,7 +2,7 @@
 Hello this is my python repository
 
 
-## Project 1 (String Reversal)
+# Project 1 (String Reversal)
 
 A simple Python program that takes a string input from the user and returns the reversed version of it using Python's slicing syntax.
 
