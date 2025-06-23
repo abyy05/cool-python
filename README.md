@@ -19,7 +19,7 @@ A simple Python program that takes a string input from the user and returns the 
 Run it as usual  .py file
 
 ```bash
-  python string_reverser.py
+  python string_reversal.py
 
 ```
     
