@@ -43,6 +43,7 @@ Run it as usual  .py file
 - String Manipulation
 
 
+
 # Project 2 (Temperature Conversion)
 
 An interactive CLI (Command Line Interface) application to convert temperatures between Celsius and Fahrenheit.
@@ -83,11 +84,12 @@ Run it as usual  .py file
 - Basic control structures (if, while)
 - CLI formatting for a better user experience
 
+
+
 # Project 3 (Simple Calculator)
 
-This Python script is a basic yet functional command-line calculator that performs:
+This Python script is a basic yet functional command-line calculator that performs: Addition, Subtraction, Multiplication, Division, Modulo.
 
-Addition, Subtraction, Multiplication, Division, Modulo.
 
 ## Features
 
@@ -108,6 +110,7 @@ Run it as usual  .py file
   python string_reversal.py
 ```
 
+
 ## Example Usage
 A quick Snapshot of the complete code execution.
 
@@ -124,11 +127,15 @@ A quick Snapshot of the complete code execution.
   Sum = 650.0
 ```
 
+
 ## Tech Stack
 
 **Python,** **Standard library only (no dependencies).** 
 
+
+
 ## Lessons Learned
+
 - Built logic using loops, conditionals, and functions.
 
 - Practiced input validation and error handling.
