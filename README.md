@@ -148,6 +148,62 @@ A quick Snapshot of the complete code execution.
 
 
 
+ Project 3 (Palindrome Checker)
+
+A simple Python CLI application that checks whether a word is a palindrome (reads the same backward as forward).
+
+
+## Features
+
+- Accepts user input
+- Checks for alphabetic input only
+- Determines if the input is a palindrome
+- Runs continuously until manually stopped
+
+## Installation
+
+Run it as usual  .py file
+
+```bash
+  python string_reversal.py
+```
+
+
+## Example Usage
+
+A quick Snapshot of the complete code execution.
+
+```bash
+  Enter a word: racecar
+  racecar is a palindrome
+
+  Enter a word: hello
+  hello is not a palindrome
+
+  Enter a word: 123abc
+  Alphabets only
+
+```
+
+
+## Tech Stack
+
+**Python,** **Standard library only (no dependencies).** 
+
+
+
+## Lessons Learned
+
+- String Slicing
+- User Input Validation
+- Basic Control Flow
+- Input validation using .isalpha()
+- Python string slicing
+- Palindrome logic
+- Use of infinite loops 
+
+
+
 
 
 
