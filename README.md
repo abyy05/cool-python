@@ -148,7 +148,7 @@ A quick Snapshot of the complete code execution.
 
 
 
- Project 3 (Palindrome Checker)
+# Project 3 (Palindrome Checker)
 
 A simple Python CLI application that checks whether a word is a palindrome (reads the same backward as forward).
 
