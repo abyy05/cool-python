@@ -228,7 +228,6 @@ Run it as a regular `.py` file after replacing the `"your target file"` string w
   python file_organizer.py
 ```
 
-> **Note:** Requires only Python standard library. No external dependencies.
 
 ## Example Usage
 
