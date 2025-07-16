@@ -207,6 +207,62 @@ A quick Snapshot of the complete code execution.
 
 
 
+# Project 4 (File Organizer CLI Tool)
+
+A simple Python CLI utility that **organizes files into folders by type and month** based on their creation date.
+
+## Features
+
+- Categorizes files into folders like `images`, `documents`, `code`, and `others`
+- Groups files by **month of creation** (e.g., `2025-07`)
+- Renames files with a **date-based unique format** to avoid duplication
+- Automatically creates necessary folders
+- Works recursively for all files in a given folder
+- Logs all moved files with new names
+
+## Installation
+
+Run it as a regular `.py` file after replacing the `"your target file"` string with your target folder path.
+
+```bash
+  python file_organizer.py
+```
+
+> **Note:** Requires only Python standard library. No external dependencies.
+
+## Example Usage
+
+A quick snapshot of what happens when you run the code:
+
+```bash
+  Moved image1.jpg → images/2025-07/images_20250716_001.jpg
+  Moved doc.txt → documents/2025-07/documents_20250716_001.txt
+  Moved script.py → code/2025-07/code_20250716_001.py
+  Moved random.xyz → others/2025-07/others_20250716_001.xyz
+```
+
+## Tech Stack
+
+**Python**, **Standard Library Only**  
+Modules used:
+- `os`
+- `shutil`
+- `pathlib`
+- `datetime`
+
+## Lessons Learned
+
+- File and folder manipulation with `pathlib` and `shutil`
+- Categorizing by file extension
+- Creating nested folders using `.mkdir(parents=True, exist_ok=True)`
+- Timestamp formatting using `datetime`
+- Unique file naming with counters
+- Writing reusable utility functions
+
+
+
+
+
 
 
 
